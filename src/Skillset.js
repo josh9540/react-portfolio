@@ -18,7 +18,7 @@ export class Skillset extends Component {
       </div>
       <div className="row text-center">
         <div className="col-md-4">
-        <img id="web" src={html5} />
+        <img id="web" src={html5} alt="card image" />
     
           
          {/* <span className="fa-stack fa-4x">
@@ -30,7 +30,7 @@ export class Skillset extends Component {
           
         </div>
         <div className="col-md-4">
-        <img id="web" src={css3} />
+        <img id="web" src={css3} alt="card image" />
     
           {/*<span className="fa-stack fa-4x">
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
@@ -40,7 +40,7 @@ export class Skillset extends Component {
           
         </div>
         <div className="col-md-4">
-        <img id="web" src={bootstrap4} />
+        <img id="web" src={bootstrap4} alt="card image"/>
     
           {/*<span className="fa-stack fa-4x">
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
@@ -56,7 +56,7 @@ export class Skillset extends Component {
       
       <div className="row text-center">
         <div className="col-md-4">
-        <img id="web" src={javascript} />
+        <img id="web" src={javascript} alt="card image"/>
           {/*<span className="fa-stack fa-4x">
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
            
@@ -67,7 +67,7 @@ export class Skillset extends Component {
          
         </div>
         <div className="col-md-4">
-        <img id="web" src={reactjs} />
+        <img id="web" src={reactjs} alt="card image"/>
        {/*} <span className="fa-stack fa-4x">
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
             <i className="fab fa-react fa-stack-1x fa-inverse"></i>
@@ -77,7 +77,7 @@ export class Skillset extends Component {
           
         </div>
         <div className="col-md-4">
-        <img id="web" src={django} />
+        <img id="web" src={django} alt="card image"/>
          {/*} <span className="fa-stack fa-4x">
             <i className="fa fa-circle fa-stack-2x text-primary"></i>
             <i className="fa fa-bootstrap fa-stack-1x fa-inverse"></i>
